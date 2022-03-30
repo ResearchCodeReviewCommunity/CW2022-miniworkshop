@@ -13,6 +13,10 @@ jobs:
         submodules: true
         fetch-depth: 0
 
+    - uses: r-lib/actions/setup-pandoc@v1
+      with:
+        pandoc-version: '2.17.1'
+
     - name: Generate the slides
       run: |
         mkdir build && cd build/
