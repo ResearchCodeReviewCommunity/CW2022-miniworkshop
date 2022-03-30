@@ -14,4 +14,6 @@ add_custom_target(slides ALL
     DEPENDS ${CMAKE_SOURCE_DIR}/slides.md
     )
 
-file(COPY ${CMAKE_SOURCE_DIR}/img DESTINATION ${CMAKE_BINARY_DIR})
+set(CMAKE_INSTALL_PREFIX ${CMAKE_BINARY_DIR})
+install(FILES ${CMAKE_BINARY_DIR}/slides.html DESTINATION generated)
+install(DIRECTORY img DESTINATION generated)
