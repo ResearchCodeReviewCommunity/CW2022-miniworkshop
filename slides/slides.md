@@ -93,6 +93,8 @@ Code review is very rare in academia
 : : :
 #### Guidelines as a website
 
+TODO: website iframe
+
 #### Mini workshop outline
 
 1. Short intro to guidelines so far
@@ -103,7 +105,11 @@ Code review is very rare in academia
 
 #### The Code Review Community
 
+TODO: add Holly's poster
+
 #### Who are you?
+
+TODO: Add link to mentimeter
 
 #### Code review guidelines
 
