@@ -58,8 +58,16 @@ What about code quality?
     reduce impact of leavers.
 
 : : :
+#### Code Review is common software practice...
+... in the software industry and open source communities.
 
-#### Code Review is common software practice
+. . .
+
+Code review is very rare in academia
+- Lack of awareness
+- Lack of guiddance
+- Lack of incentives
+- Lack of confidence
 
 : : : notes
 
