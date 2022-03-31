@@ -10,11 +10,30 @@
 
 What about code quality?
 
+: : : notes
+
+- Yesterday we had a presentation about CODECHECK. Code review at the
+  time of publication. It's relevant for reproducibility and checking
+  state of a codebase.
+- But what if the code is unreadable/unmaintanable? It's too late for
+  a rewrite.
+
+: : :
+
 
 #### Code review *during research*
 
 ![](img/pexels-christina-morillo-1181469.jpg ""){width=70%}
 
+: : : notes
+
+- There is a need for code review /during research/. A different kind
+  of code review: informal, low-stakes and frequent. Something you
+  would with colleagues once a week.
+- Focus on code quality. Does not replace publication-time review -
+  but is complementary.
+
+: : :
 
 #### Code Review benefits researchers themselves
 
@@ -24,11 +43,46 @@ What about code quality?
 - Collaboration
   - Group awareness, cohesion and trust
   - Makes it easier for people to join a team... and leave it.
-  
+
+: : : notes
+
+- Code review during research has benefits beyond better code quality.
+- Learning and knowledge transfer
+  + Mentoring and dissemination of experience and good practices.
+  + More experienced programmers are exposed to new patterns and
+    approaches.
+- Collaboration
+  + Regular meetings and discussions increases group awareness, trust
+    and cohesion.
+  + Specific technical knowledge is spread. Easier for newcomers,
+    reduce impact of leavers.
+
+: : :
+
 #### Code Review is common software practice
 
+: : : notes
+
+- Code review is common in the software industry and open source
+  communities, but very rare in research.
+- Lack of awareness and guidance on how to do code review in a
+  research context. Most material out there is targeted at the
+  software industry and open source projects.
+- Establishment of code review culture will probably struggle with
+  lack of incentives for code quality and lack of confidence.
+
+: : :
 #### CRC group 2
 
+: : : notes
+
+- UK/US based group of researchers and RSEs.
+- Started as one of the working groups of the Code Review Community.
+- GROUP PHOTO
+- In practice, guidelines as website. Living document that is open to
+  contributions.
+
+: : :
 #### Guidelines as a website
 
 #### Mini workshop outline
@@ -52,6 +106,17 @@ Principles
 - Informal and low stakes.
 - Accessible to beginner programmers.
 
+: : : notes
+
+- Suited for lone, perhaps isolated, research developpers.
+- Short, fixed duration. Can fit into a busy schedule with possiblity
+  of iteration.
+- Informal and low stakes.
+- Accessible to less experienced programmers (e.g. resaercher how
+  would not think of themselves as programmers).
+
+: : :
+
 #### Code review guidelines
 
 The four steps
@@ -62,7 +127,3 @@ The four steps
 4. Finalise
 
 #### Tour of the website
-
-
-
-
