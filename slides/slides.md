@@ -19,8 +19,6 @@ What about code quality?
   a rewrite.
 
 : : :
-
-
 #### Code review *during research*
 
 ![](img/pexels-christina-morillo-1181469.jpg ""){width=70%}
@@ -58,7 +56,9 @@ What about code quality?
     reduce impact of leavers.
 
 : : :
+
 #### Code Review is common software practice...
+
 ... in the software industry and open source communities.
 
 . . .
@@ -80,6 +80,7 @@ Code review is very rare in academia
   lack of incentives for code quality and lack of confidence.
 
 : : :
+
 #### CRC group 2
 
 : : : notes
@@ -91,6 +92,7 @@ Code review is very rare in academia
   contributions.
 
 : : :
+
 #### Guidelines as a website
 
 TODO: website iframe
