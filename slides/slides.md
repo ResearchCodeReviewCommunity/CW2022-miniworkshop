@@ -10,7 +10,7 @@
 
 What about code quality?
 
-: : : notes
+::: notes
 
 - Yesterday we had a presentation about CODECHECK. Code review at the
   time of publication. It's relevant for reproducibility and checking
@@ -18,12 +18,13 @@ What about code quality?
 - But what if the code is unreadable/unmaintanable? It's too late for
   a rewrite.
 
-: : :
+:::
+
 #### Code review *during research*
 
 ![](img/pexels-christina-morillo-1181469.jpg ""){width=70%}
 
-: : : notes
+::: notes
 
 - There is a need for code review /during research/. A different kind
   of code review: informal, low-stakes and frequent. Something you
@@ -31,7 +32,7 @@ What about code quality?
 - Focus on code quality. Does not replace publication-time review -
   but is complementary.
 
-: : :
+:::
 
 #### Code Review benefits researchers themselves
 
@@ -42,7 +43,7 @@ What about code quality?
   - Group awareness, cohesion and trust
   - Makes it easier for people to join a team... and leave it.
 
-: : : notes
+::: notes
 
 - Code review during research has benefits beyond better code quality.
 - Learning and knowledge transfer
@@ -55,7 +56,7 @@ What about code quality?
   + Specific technical knowledge is spread. Easier for newcomers,
     reduce impact of leavers.
 
-: : :
+:::
 
 #### Code Review is common software practice...
 
@@ -64,12 +65,13 @@ What about code quality?
 . . .
 
 Code review is very rare in academia
+
 - Lack of awareness
 - Lack of guiddance
 - Lack of incentives
 - Lack of confidence
 
-: : : notes
+::: notes
 
 - Code review is common in the software industry and open source
   communities, but very rare in research.
@@ -79,11 +81,11 @@ Code review is very rare in academia
 - Establishment of code review culture will probably struggle with
   lack of incentives for code quality and lack of confidence.
 
-: : :
+:::
 
 #### CRC group 2
 
-: : : notes
+::: notes
 
 - UK/US based group of researchers and RSEs.
 - Started as one of the working groups of the Code Review Community.
@@ -91,7 +93,7 @@ Code review is very rare in academia
 - In practice, guidelines as website. Living document that is open to
   contributions.
 
-: : :
+:::
 
 #### Guidelines as a website
 
@@ -122,7 +124,7 @@ Principles
 - Informal and low stakes.
 - Accessible to beginner programmers.
 
-: : : notes
+::: notes
 
 - Suited for lone, perhaps isolated, research developpers.
 - Short, fixed duration. Can fit into a busy schedule with possiblity
@@ -131,7 +133,7 @@ Principles
 - Accessible to less experienced programmers (e.g. resaercher how
   would not think of themselves as programmers).
 
-: : :
+:::
 
 #### Code review guidelines
 
