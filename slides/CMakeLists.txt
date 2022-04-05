@@ -12,6 +12,7 @@ add_custom_target(slides ALL
     -V theme=white
     -V transition=none
     -V backgroundTransition=none
+    -V slideNumber=true
     WORKING_DIRECTORY ${CMAKE_SOURCE_DIR}
     DEPENDS ${CMAKE_SOURCE_DIR}/slides.md
     )
