@@ -22,7 +22,7 @@ What about code quality?
 
 #### Code review *during research*
 
-![](img/pexels-christina-morillo-1181469.jpg ""){width=70%}
+![](img/pexels-christina-morillo-1181471.jpg ""){width=70%}
 
 ::: notes
 
