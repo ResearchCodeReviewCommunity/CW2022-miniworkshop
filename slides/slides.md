@@ -83,13 +83,15 @@ Code review is very rare in academia
 
 :::
 
-#### CRC group 2
+#### Code Review Community Group 2
+(Code Review during research)
+
+![](img/photos.jpg "A caption?")
 
 ::: notes
 
 - UK/US based group of researchers and RSEs.
 - Started as one of the working groups of the Code Review Community.
-- GROUP PHOTO
 - In practice, guidelines as website. Living document that is open to
   contributions.
 
