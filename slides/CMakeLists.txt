@@ -10,6 +10,8 @@ add_custom_target(slides ALL
     -t revealjs
     -V revealjs-url=https://unpkg.com/reveal.js@^4
     -V theme=white
+    -V transition=none
+    -V backgroundTransition=none
     WORKING_DIRECTORY ${CMAKE_SOURCE_DIR}
     DEPENDS ${CMAKE_SOURCE_DIR}/slides.md
     )
