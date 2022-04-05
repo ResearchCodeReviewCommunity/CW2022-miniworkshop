@@ -111,14 +111,6 @@ Code review is very rare in academia
 4. Report back
 5. Wrap up
 
-#### The Code Review Community
-
-TODO: add Holly's poster
-
-#### Who are you?
-
-TODO: Add link to mentimeter
-
 #### Code review guidelines
 
 Principles
