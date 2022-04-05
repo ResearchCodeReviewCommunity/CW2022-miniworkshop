@@ -67,7 +67,7 @@ What about code quality?
 Code review is very rare in academia
 
 - Lack of awareness
-- Lack of guiddance
+- Lack of guidance
 - Lack of incentives
 - Lack of confidence
 
