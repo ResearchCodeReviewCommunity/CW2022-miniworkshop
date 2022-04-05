@@ -99,7 +99,9 @@ Code review is very rare in academia
 
 #### Guidelines as a website
 
-TODO: website iframe
+#### {background-iframe="https://researchcodereviewcommunity.github.io/dev-review/"}
+
+#### {background-image="img/github_screenshot.png"}
 
 #### Mini workshop outline
 
