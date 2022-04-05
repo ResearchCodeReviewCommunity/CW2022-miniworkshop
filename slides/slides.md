@@ -115,10 +115,10 @@ Code review is very rare in academia
 
 Principles
 
-- Suited for "lone coder".
-- Short, and predictable time commitment.
-- Informal and low stakes.
-- Accessible to beginner programmers.
+- Suited for "lone coder"
+- Short, and predictable time commitment
+- Informal and low stakes
+- Accessible to beginner programmers
 
 ::: notes
 
