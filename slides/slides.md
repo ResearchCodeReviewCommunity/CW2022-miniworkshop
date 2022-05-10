@@ -2,7 +2,7 @@
 % CW2022 Mini Workshop
 % 04.04.2022
 
-#### Code review at the time of publication
+#### Code reviews at the time of publication
 
 ![](img/codecheck_logo.svg "A caption?")
 
